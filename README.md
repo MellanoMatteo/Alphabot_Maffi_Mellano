@@ -4,7 +4,7 @@ Il progetto consiste nel movimento di un AlphaBot. <br>
 I movimenti disponibili nel database sono:
 
 - zig zag
-- trinagolo
+- triangolo
 - cerchio
 - quadrato
 - infinito
